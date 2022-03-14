@@ -1,0 +1,29 @@
+﻿
+<div>
+<h3>Visitors Form<h3>
+<form>
+<label for="fname">First name:</label><br>
+<input type="text" id="fname" name="fname"><br>
+<label for="oname">Other name:</label><br>
+<input type="text" id="Oname" name="Oname"><br>
+<label for="lname">Last name:</label><br>
+<input type="text" id="lname" name="lname"><br>
+<label for="age">Age:</label><br>
+<input type="text" id="age" name="age"><br>
+<label for="gender">Choose a Gender:</label><br>
+<select id="gender" name="gender"><br>
+<option value="male">Male</option>
+<option value="male">Female</option>
+<p>Choose Id type:</p>
+<input type="radio" id="Ghana card" name="Id_type" value="Ghana card">
+<label for="Ghana card">Ghana card</label><br>
+<input type="radio" id="Voters" name="Id_type" value="Voters">
+<label for="voters">Voters</label><br>
+<input type="radio" id="NHIS" name="Id_type" value="NHIS">
+<label type="NHIS">NHIS</label><br>
+<label for="tel">Telephone number:</label><br>
+<input type="text" id="tel" name="tel"><br>
+<input type="submit" value="Submit">
+</form>
+                                                                                                                                                     
+</div>
